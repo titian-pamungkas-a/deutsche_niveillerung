@@ -1,0 +1,1568 @@
+[
+    {
+        "level": 0,
+        "index": 1,
+        "indSentence": "12:00 Uhr",
+        "engSentence": "Guten Tag!",
+        "indWords": [
+            {
+                "indWord": "Guten Morgen!"
+            },
+            {
+                "indWord": "Guten Abend!"
+            }
+        ]
+    },
+    {
+        "level": 0,
+        "index": 1,
+        "indSentence": "Wie heißt du?",
+        "engSentence": "Mein Name ist Julia",
+        "indWords": [
+            {
+                "indWord": "das ist Julia"
+            },
+            {
+                "indWord": "Hallo, Julia"
+            }
+        ]
+    },
+    {
+        "level": 0,
+        "index": 1,
+        "indSentence": "Ich bin Julian",
+        "engSentence": "Wie heißen Sie?",
+        "indWords": [
+            {
+                "indWord": "Wie geht es Ihnen?"
+            },
+            {
+                "indWord": "Woher kommen Sie?"
+            }
+
+        ]
+    },
+    {
+        "level": 0,
+        "index": 1,
+        "indSentence": "Wo wohnst du?",
+        "engSentence": "Ich wohne in Jakarta",
+        "indWords": [
+            {
+                "indWord": "Ich komme aus Spanien"
+            },
+            {
+                "indWord": "Ich spreche Deutsch"
+            }
+        ]
+    },
+    {
+        "level": 0,
+        "index": 0,
+        "indSentence": "Peter ... in Jakarta",
+        "engSentence": "wohnt",
+        "indWords": [
+            {
+                "indWord": "wohnst"
+            },
+            {
+                "indWord": "wohnen"
+            }
+        ]
+    },
+    {
+        "level": 0,
+        "index": 1,
+        "indSentence": "Wie geht’s dir?",
+        "engSentence": "Ganz gut",
+        "indWords": [
+            {
+                "indWord": "Auf wiedersehen!"
+            },
+            {
+                "indWord": "Das ist Frau Maria"
+            }
+        ]
+    },
+    {
+        "level": 0,
+        "index": 1,
+        "indSentence": "Danke, sehr gut",
+        "engSentence": "Wie geht es Ihnen?",
+        "indWords": [
+            {
+                "indWord": "Wie bitte?"
+            },
+            {
+                "indWord": "Kannst du das buchstabieren?"
+            }
+        ]
+    },
+    {
+        "level": 0,
+        "index": 0,
+        "indSentence": "Er ... aus Jakarta",
+        "engSentence": "ist",
+        "indWords": [
+            {
+                "indWord": "komme"
+            },
+            {
+                "indWord": "sind"
+            }
+        ]
+    },
+    {
+        "level": 0,
+        "index": 1,
+        "indSentence": "Sie kommt aus Indonesien",
+        "engSentence": "Woher kommt sie?",
+        "indWords": [
+            {
+                "indWord": "Wie heißt sie?"
+            },
+            {
+                "indWord": "Wie ist ihre Telefonnumer?"
+            }
+        ]
+    },
+    {
+        "level": 0,
+        "index": 1,
+        "indSentence": "Wer ist das?",
+        "engSentence": "Das ist Bea",
+        "indWords": [
+            {
+                "indWord": "Wir kommen aus Deutschland"
+            },
+            {
+                "indWord": "Das sind Ana und Jan"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "Ich ... gern",
+        "engSentence": "reise",
+        "indWords": [
+            {
+                "indWord": "reist"
+            },
+            {
+                "indWord": "reisen"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "Tom ... nicht gern",
+        "engSentence": "kocht",
+        "indWords": [
+            {
+                "indWord": "kochen"
+            },
+            {
+                "indWord": "koche"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 1,
+        "indSentence": "... ihr gern?",
+        "engSentence": "Fotografiert",
+        "indWords": [
+            {
+                "indWord": "Fotografierst"
+            },
+            {
+                "indWord": "Fotografiere"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "Julia schwimm ... gern",
+        "engSentence": "schwimmt",
+        "indWords": [
+            {
+                "indWord": "schwimmen"
+            },
+            {
+                "indWord": "schwimmst"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "Julia und Nina jogg ... gern",
+        "engSentence": "joggen",
+        "indWords": [
+            {
+                "indWord": "joggst"
+            },
+            {
+                "indWord": "jogge"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "Ich sing ... nicht",
+        "engSentence": "singe",
+        "indWords": [
+            {
+                "indWord": "singen"
+            },
+            {
+                "indWord": "singt"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "Er tanz ... nicht gern",
+        "engSentence": "tanzt",
+        "indWords": [
+            {
+                "indWord": "tanzen"
+            },
+            {
+                "indWord": "tanzst"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "Shopie und Tom ... nicht gern. Aber sie ... gern",
+        "engSentence": "joggen schwimmen",
+        "indWords": [
+            {
+                "indWord": "schwimmst"
+            },
+            {
+                "indWord": "joggst"
+            },
+            {
+                "indWord": "schwimmt"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "gern / Nina/ tanzt / ",
+        "engSentence": "Nina tanzt gern",
+        "indWords": [
+            {
+                "indWord": "tanzen"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "index": 0,
+        "indSentence": "Boris / nicht gern / kocht /",
+        "engSentence": "Boris kocht nicht gern",
+        "indWords": [
+            {
+                "indWord": "kochen"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "... Sprache, ... Film, ... Foto",
+        "engSentence": "die das der",
+        "indWords": [
+
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "(die) Sprache, (der) Film, (das) Foto",
+        "engSentence": "ein ein eine",
+        "indWords": [
+            {
+                "indWord": "einen"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "Taxifahrer ist ... Beruf",
+        "engSentence": "ein",
+        "indWords": [
+            {
+                "indWord": "eine"
+            },
+            {
+                "indWord": "einen"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "Das ist ... Schiff. ... Schiff heißt Maria",
+        "engSentence": "ein Das",
+        "indWords": [
+            {
+                "indWord": "eine"
+            },
+            {
+                "indWord": "Der"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "Bremen ist ... Stadt in Deutschland. ... Stadt ist sehr interessant",
+        "engSentence": "eine Die",
+        "indWords": [
+            {
+                "indWord": "ein"
+            },
+            {
+                "indWord": "Der"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "Berlin ist ... Land, Berlin ist ... Stadt",
+        "engSentence": "kein eine",
+        "indWords": [
+            {
+                "indWord": "keine"
+            },
+            {
+                "indWord": "eine"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "Auf der Straße fahren ... Autos, aber ... Züge",
+        "engSentence": "(empty) keine",
+        "indWords": [
+            {
+                "indWord": "das"
+            },
+            {
+                "indWord": "eine"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "--der Winter! Ich ... gern. Es ist so schön im Winter",
+        "engSentence": "fotografiere",
+        "indWords": [
+            {
+                "indWord": "schwimme"
+            },
+            {
+                "indWord": "wohne"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "Ich ... in Garmisch, in den Alpen",
+        "engSentence": "wohne",
+        "indWords": [
+            {
+                "indWord": "fahre"
+            },
+            {
+                "indWord": "schwimme"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "index": 0,
+        "indSentence": "Das ist einfach ...",
+        "engSentence": "super",
+        "indWords": [
+            {
+                "indWord": "Sommer"
+            },
+            {
+                "indWord": "April"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "Leon macht ... Salat",
+        "engSentence": "den",
+        "indWords": [
+            {
+                "indWord": "der"
+            },
+            {
+                "indWord": "die"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "und Moritz kauft ... Fleisch",
+        "engSentence": "das",
+        "indWords": [
+            {
+                "indWord": "der"
+            },
+            {
+                "indWord": "die"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "Emma macht wieder ... Apfelkuchen, so gut!",
+        "engSentence": "den",
+        "indWords": [
+            {
+                "indWord": "der"
+            },
+            {
+                "indWord": "die"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "Ach ja, Laura bringt ... Obst",
+        "engSentence": "das",
+        "indWords": [
+            {
+                "indWord": "der"
+            },
+            {
+                "indWord": "dem"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "und ... Wasser",
+        "engSentence": "das",
+        "indWords": [
+            {
+                "indWord": "die"
+            },
+            {
+                "indWord": "der"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "Und ich kaufe ... Kartoffeln",
+        "engSentence": "die",
+        "indWords": [
+            {
+                "indWord": "der"
+            },
+            {
+                "indWord": "den"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "und ... Würstchen",
+        "engSentence": "die",
+        "indWords": [
+            {
+                "indWord": "den"
+            },
+            {
+                "indWord": "das"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "Ja, ich mache ... Salat",
+        "engSentence": "einen",
+        "indWords": [
+            {
+                "indWord": "eine"
+            },
+            {
+                "indWord": "ein"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "Tut mir leid, heute haben wir ... Tomaten",
+        "engSentence": "keine",
+        "indWords": [
+            {
+                "indWord": "eine"
+            },
+            {
+                "indWord": "kein"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "index": 0,
+        "indSentence": "Kannst du bitten noch ... Brot kaufen?",
+        "engSentence": "ein",
+        "indWords": [
+            {
+                "indWord": "eine"
+            },
+            {
+                "indWord": "kein"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 1,
+        "indSentence": "Guten ...",
+        "engSentence": "Appetit!",
+        "indWords": [
+            {
+                "indWord": "bin satt"
+            },
+            {
+                "indWord": "sehr gut"
+            },
+            {
+                "indWord": "sind wirklich lecker"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 1,
+        "indSentence": "Danke, das schmeckt ...",
+        "engSentence": "bin satt",
+        "indWords": [
+            {
+                "indWord": "sehr gut"
+            },
+            {
+                "indWord": "sind wirklich lecker"
+            },
+            {
+                "indWord": "Appetit!"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 1,
+        "indSentence": "Die würstchen ...",
+        "engSentence": "sind wirklich lecker",
+        "indWords": [
+            {
+                "indWord": "sehr gut"
+            },
+            {
+                "indWord": "bin satt"
+            },
+            {
+                "indWord": "Appetit!"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 0,
+        "indSentence": "A: Isst Lando auch Salat?  B: Nein, er ... keinen Salat",
+        "engSentence": "mag",
+        "indWords": [
+            {
+                "indWord": "mögen"
+            },
+            {
+                "indWord": "mögt"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 0,
+        "indSentence": "A: Welches Eis ... ihr?  B: Schoko und Banane!",
+        "engSentence": "mögt",
+        "indWords": [
+            {
+                "indWord": "mögen"
+            },
+            {
+                "indWord": "mag"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 1,
+        "indSentence": "Es ist zwanzig nach zwölf",
+        "engSentence": "12:20 Uhr",
+        "indWords": [
+            {
+                "indWord": "20:12 Uhr"
+            },
+            {
+                "indWord": "12:00 Uhr"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 1,
+        "indSentence": "11:45 Uhr",
+        "engSentence": "Es ist Viertel vor zwölf",
+        "indWords": [
+            {
+                "indWord": "Es ist Viertel nach zwölf"
+            },
+            {
+                "indWord": "Es ist halb zwölf"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 0,
+        "indSentence": "Hallo Sara, ich_noch so viel machen: Mathe und Englisch",
+        "engSentence": "muss",
+        "indWords": [
+            {
+                "indWord": "musst"
+            },
+            {
+                "indWord": "müssen"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 0,
+        "indSentence": "Ich ... nicht lernen!",
+        "engSentence": "will",
+        "indWords": [
+            {
+                "indWord": "willst"
+            },
+            {
+                "indWord": "wollt"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "index": 0,
+        "indSentence": "Ich ... leider nicht kommen",
+        "engSentence": "kann",
+        "indWords": [
+            {
+                "indWord": "können"
+            },
+            {
+                "indWord": "könnt"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Wo ist der Kellner? Ich sehe ... nicht",
+        "engSentence": "ihn",
+        "indWords": [
+            {
+                "indWord": "mich"
+            },
+            {
+                "indWord": "uns"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Wo seid ihr? Ich kann ... nicht sehen",
+        "engSentence": "euch",
+        "indWords": [
+            {
+                "indWord": "dich"
+            },
+            {
+                "indWord": "sie"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Die Pizza (für / du / sein)",
+        "engSentence": "ist für dich",
+        "indWords": [
+            {
+                "indWord": "du"
+            },
+            {
+                "indWord": "sein"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Mein Bruder (ich / besuchen / heute)",
+        "engSentence": "besucht mich heute",
+        "indWords": [
+            {
+                "indWord": "ich"
+            },
+            {
+                "indWord": "besuchen"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Ich ... gestern keine Zeit",
+        "engSentence": "hatte",
+        "indWords": [
+            {
+                "indWord": "hattest"
+            },
+            {
+                "indWord": "hattern"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Wo ... du denn?",
+        "engSentence": "warst",
+        "indWords": [
+            {
+                "indWord": "war"
+            },
+            {
+                "indWord": "hattest"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Das Essen .. gut",
+        "engSentence": "war",
+        "indWords": [
+            {
+                "indWord": "warst"
+            },
+            {
+                "indWord": "wart"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Wir ... Hunger",
+        "engSentence": "hatten",
+        "indWords": [
+            {
+                "indWord": "waren"
+            },
+            {
+                "indWord": "hattet"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "... ihr im Restaurant?",
+        "engSentence": "Wart",
+        "indWords": [
+            {
+                "indWord": "Hattet"
+            },
+            {
+                "indWord": "Ware"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "index": 0,
+        "indSentence": "Sie ... viel Spaß",
+        "engSentence": "hatten",
+        "indWords": [
+            {
+                "indWord": "waren"
+            },
+            {
+                "indWord": "hattest"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Marco kommt oft spät in die Arbeit, ... heute kommt er schon um acht",
+        "engSentence": "aber",
+        "indWords": [
+        {
+            {
+                "indWord": "oder"
+            },
+            {
+                "indWord": "und"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Marco trifft abends seine Freunde_er bleibt zu Hause",
+        "engSentence": "oder",
+        "indWords": [
+            {
+                "indWord": "aber"
+            },
+            {
+                "indWord": "und"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Frau Basir spricht mit ... Chef",
+        "engSentence": "dem",
+        "indWords": [
+            {
+                "indWord": "den"
+            },
+            {
+                "indWord": "der"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Sie fährt zu ... Termin mit ... Kundin",
+        "engSentence": "dem der",
+        "indWords": [
+            {
+                "indWord": "den"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Am Abend geht sie mit .. Freund ins Kino",
+        "engSentence": "einem",
+        "indWords": [
+            {
+                "indWord": "einen"
+            },
+            {
+                "indWord": "einer"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Später telefoniert sie noch mit ... Freundin",
+        "engSentence": "einer",
+        "indWords": [
+            {
+                "indWord": "einen"
+            },
+            {
+                "indWord": "einem"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Pia braucht Geld. Sie geht ... der Bank",
+        "engSentence": "zur",
+        "indWords": [
+            {
+                "indWord": "von"
+            },
+            {
+                "indWord": "im"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Es ist 18 Uhr. Dalia kommt ... im Büro",
+        "engSentence": "aus dem",
+        "indWords": [
+            {
+                "indWord": "im"
+            },
+            {
+                "indWord": "zum"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Ich gehe um 13 Uhr ...(zu – das Essen)",
+        "engSentence": "zum Essen",
+        "indWords": [
+            {
+                "indWord": "zur"
+            },
+            {
+                "indWord": "zu"
+            }
+        ]
+    },
+    {
+        "level": 6,
+        "index": 0,
+        "indSentence": "Nein, ich war heute Morgen ...(in – der Supermarkt)",
+        "engSentence": "im Supermarkt",
+        "indWords": [
+            {
+                "indWord": "zum"
+            },
+            {
+                "indWord": "um"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "Ich habe Fieber. Die Ärtzin sagt, ich ... drei Tagen im Bett ...",
+        "engSentence": "soll bleiben",
+        "indWords": [
+            {
+                "indWord": "bewegen"
+            },
+            {
+                "indWord": "solle"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "Agim, der Arzt sagt, du ... das Bein nur wenig ...",
+        "engSentence": "sollst bewegen",
+        "indWords": [
+            {
+                "indWord": "absagen"
+            },
+            {
+                "indWord": "soll"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "Die Chefin schreibt, wir ... morgen um 14:00 Uhr zu ihr ...",
+        "engSentence": "sollen kommen",
+        "indWords": [
+            {
+                "indWord": "solle"
+            },
+            {
+                "indWord": "bleiben"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "Ich möchte gern baden, aber ich ... nicht, ich habe noch Fieber",
+        "engSentence": "darf",
+        "indWords": [
+            {
+                "indWord": "darfst"
+            },
+            {
+                "indWord": "dürft"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "Elias hat eine Wunde am Knie, aber er ... den Fuss bewegen",
+        "engSentence": "darf",
+        "indWords": [
+            {
+                "indWord": "darfst"
+            },
+            {
+                "indWord": "dürfen"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "Ihre Lehrerin ist krank. Sie ... nach Hause gehen, heute ist kein Kurs",
+        "engSentence": "dürfen",
+        "indWords": [
+            {
+                "indWord": "dürft"
+            },
+            {
+                "indWord": "darf"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "dreimal täglich eine Tablette ...",
+        "engSentence": "nehmen",
+        "indWords": [
+            {
+                "indWord": "bekommen"
+            },
+            {
+                "indWord": "geben und trinken"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "den Verband täglich ...",
+        "engSentence": "wechseln",
+        "indWords": [
+            {
+                "indWord": "bekommen"
+            },
+            {
+                "indWord": "geben und trinken"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "10 Tropfen in ein Glas Wasser ...",
+        "engSentence": "geben und trinken",
+        "indWords": [
+            {
+                "indWord": "bekommen"
+            },
+            {
+                "indWord": "nehmen"
+            }
+        ]
+    },
+    {
+        "level": 7,
+        "index": 0,
+        "indSentence": "eine Spritze gegen die Schmerzen ...",
+        "engSentence": "bekommen",
+        "indWords": [
+            {
+                "indWord": "wechseln"
+            },
+            {
+                "indWord": "nehmen"
+            }
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Sie stellen die Waschmaschine ... Bad",
+        "engSentence": "ins",
+        "indWords": [
+            {
+                "indWord": "in"
+            },
+            {
+                "indWord": "die"
+            },
+            {
+                "indWord": "den"
+            }
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Die Regale stellen sie ... Flur",
+        "engSentence": "in den",
+        "indWords": [
+            {
+                "indWord": "ins"
+            },
+            {
+                "indWord": "die"
+            }
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Sie stellen die Betten ... zwei Schlafzimmer",
+        "engSentence": "in die",
+        "indWords": [
+            {
+                "indWord": "ins"
+            },
+            {
+                "indWord": "den"
+            }
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Ich habe (drucken)",
+        "engSentence": "gedruckt",
+        "indWords": [
+            {
+                "indWord": "drackt"
+            },
+            {
+                "indWord": "gedrackt"
+            }
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Er hat (holen)",
+        "engSentence": "geholt",
+        "indWords": [
+            {
+                "indWord": "holt"
+            },
+            {
+                "indWord": "geholen"
+            }
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Maria ... zehn Jahre  in Berlin gewohnt",
+        "engSentence": "hat",
+        "indWords": [
+            {
+                "indWord": "ist"
+            },
+            {
+                "indWord": "sind"
+            }
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Zusammen ... sie um August nach München gekommen",
+        "engSentence": "sind",
+        "indWords": [
+            {
+                "indWord": "hat"
+            },
+            {
+                "indWord": "haben"
+            }
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Letzte Woche / geflogen / wir/ sind / nach Spanien / ",
+        "engSentence": "Letzte Woche sind wir nach Spanien geflogen",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "wir / Dort / getroffen / haben / Freunde / ",
+        "engSentence": "Dort haben wir Freunde getroffen",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 8,
+        "index": 0,
+        "indSentence": "Wir / mit den Freunden / haben / geredet / viel / und / diskutiert / ",
+        "engSentence": "Wir haben mit den Freunden geredet und viel diskutiert",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "Hier, diese Hose ist doch ...",
+        "engSentence": "schön",
+        "indWords": [
+            {
+                "indWord": "meinst"
+            },
+            {
+                "indWord": "findest"
+            }
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "Wie ... du das T-Shirt",
+        "engSentence": "findest",
+        "indWords": [
+            {
+                "indWord": "meinst"
+            },
+            {
+                "indWord": "Pullover"
+            }
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "Sieh mal, die Jacke ist doch toll!",
+        "engSentence": "Welche?",
+        "indWords": [
+            {
+                "indWord": "Welches?"
+            }
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "Wie gefällt dir der Rock?",
+        "engSentence": "Diese",
+        "indWords": [
+            {
+                "indWord": "Dieser"
+            }
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "Welch ... Anzug ist besser?",
+        "engSentence": "Welche",
+        "indWords": [
+            {
+                "indWord": "Welches"
+            },
+            {
+                "indWord": "Welcher"
+            }
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "Welch ... T-Shirt kaufst du?",
+        "engSentence": "Welches",
+        "indWords": [
+            {
+                "indWord": "Welche"
+            },
+            {
+                "indWord": "Welcher"
+            }
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "bestellt / Wann / du / die Tasche / ? / hast ",
+        "engSentence": "Wann hast du die Tasche bestellt ?",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "Warum / du / die Hose / hast / umgetauscht / ? ",
+        "engSentence": "Warum hast du die Hose umgetauscht ?",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "du / Wie viel / bezahlt / ? / hast / für die Jacke",
+        "engSentence": "Wie viel hast du für die Jacke bezahlt ?",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 9,
+        "index": 0,
+        "indSentence": "Wann / zurückgeschickt / hast / du / das T-Shirt / ? ",
+        "engSentence": "Wann hast du das T-Shirt zurückgeschickt ?",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Diese Hose steht ... überhaupt nicht!",
+        "engSentence": "ihm",
+        "indWords": [
+            {
+                "indWord": "ihr"
+            },
+            {
+                "indWord": "ihnen"
+            }
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Was sagst du? Wie gefallen ... die Sachen?",
+        "engSentence": "dir",
+        "indWords": [
+            {
+                "indWord": "ihr"
+            },
+            {
+                "indWord": "mir"
+            }
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Wie gefällt ... dieser Pullover?",
+        "engSentence": "ihnen",
+        "indWords": [
+            {
+                "indWord": "ihre"
+            },
+            {
+                "indWord": "ihn"
+            }
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Die Schuhe sind schön. Kauf sie doch",
+        "engSentence": "Leider passen sie mir nicht",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Ich finde keine Jacke für mich",
+        "engSentence": "Ich kann dir ein Geschäft empfehlen",
+        "indWords": [
+
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Probier diesen Pulli an! Der ist schön",
+        "engSentence": "Aber ich finde ihn nicht so gut",
+        "indWords": [
+
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Ich brauche einen Mantel",
+        "engSentence": "Morgen gehe ich mit dir einkaufen",
+        "indWords": [
+            
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Wollen wir Oma eine Postkarte schreiben ... eine Email schicken?",
+        "engSentence": "oder",
+        "indWords": [
+            {
+                "indWord": "denn"
+            },
+            {
+                "indWord": "aber"
+            }
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Heute machen wir viel, ... gestern waren wir faul",
+        "engSentence": "aber",
+        "indWords": [
+            {
+                "indWord": "denn"
+            },
+            {
+                "indWord": "oder"
+            }
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Ich kaufe einen Rucksack, ... ich gehe am Wochenende wandern",
+        "engSentence": "denn",
+        "indWords": [
+            {
+                "indWord": "aber"
+            },
+            {
+                "indWord": "oder"
+            }
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "... der Mittagspause gehe ich essen",
+        "engSentence": "In",
+        "indWords": [
+            {
+                "indWord": "Ab"
+            },
+            {
+                "indWord": "Am"
+            },
+            {
+                "indWord": "Nach"
+            },
+            {
+                "indWord": "Seit"
+            },
+            {
+                "indWord": "Vor"
+            },
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "... zwei Monaten jogge ich jeden Montag und Donnerstag",
+        "engSentence": "Seit",
+        "indWords": [
+            {
+                "indWord": "Ab"
+            },
+            {
+                "indWord": "Am"
+            },
+            {
+                "indWord": "Nach"
+            },
+            {
+                "indWord": "In"
+            },
+            {
+                "indWord": "Vor"
+            },
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "... Dienstag gehe ich ins Kino",
+        "engSentence": "Am",
+        "indWords": [
+            {
+                "indWord": "Ab"
+            },
+            {
+                "indWord": "Seit"
+            },
+            {
+                "indWord": "Nach"
+            },
+            {
+                "indWord": "In"
+            },
+            {
+                "indWord": "Vor"
+            },
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Walter / in / Wohnt / Wien / oder / ? / Würzburg / in",
+        "engSentence": "Wohnt Walter in Wien oder in Würzburg ?",
+        "indWords": [
+
+        ]
+    },
+    {
+        "level": 10,
+        "index": 0,
+        "indSentence": "Im Winter verpasse ich den Zug viele Male---",
+        "engSentence": "und ich komme viel zu spät in die Firma",
+        "indWords": [
+
+        ]
+    }
+]
