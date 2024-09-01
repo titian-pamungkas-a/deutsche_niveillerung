@@ -12,7 +12,7 @@ Sebuah game edukasi bertema medieval dengan genre RPG yang dikembangkan sebagai 
 
 ## Preview
 
-![Screenshot_2024-07-11-16-21-05-040_com SKYWRATH DeutscheNivellierung](https://github.com/user-attachments/assets/c20d1cd5-3c39-4b47-a8c9-8a2953ba23a4)
+![Screenshot_2024-07-11-16-21-05-040_com SKYWRATH DeutscheNivellierung](https://github.com/user-attachments/assets/c20d1cd5-3c39-4b47-a8c9-8a2953ba23a4|width=100)
 ![Screenshot_2024-07-11-16-20-54-132_com SKYWRATH DeutscheNivellierung](https://github.com/user-attachments/assets/96e3b182-98f3-40b4-b135-38f3c5e781b1)
 ![Screenshot_2024-07-11-16-20-52-644_com SKYWRATH DeutscheNivellierung](https://github.com/user-attachments/assets/7dbb0365-e1a5-43a7-beb7-8c9925d4f9e3)
 ![Screenshot_2024-07-11-16-20-45-822_com SKYWRATH DeutscheNivellierung](https://github.com/user-attachments/assets/97d41755-c6ed-4971-96c2-978fd9bd87eb)
